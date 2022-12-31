@@ -1,5 +1,10 @@
 # Gliederung A01
 
+§10 (2) Allgemeiner Teil APO-BK
+Die Leistungen einer Klasse oder Jahrgangsstufe sind erfüllt, wenn die Leistungen am Ende der Klasse oder Jahrgangsstufe in allen Fächern mindestens "ausreichend" oder nur in einem Fach "mangelhaft" sind
+
+
+
 Anlage A (Fachklassen duales System und Ausbildungsvorbereitung), Typ 01 (Fachklassen (BS; TZ))
 
 §2 Anlage A APO-BK
@@ -20,7 +25,6 @@ Zuordnung des errechneten Mittelwertes zu Noten
 1,6 bis 2,5: gut;
 2,6 bis 3,5: befriedigend;
 3,6 bis 4,5: ausreichend
-(schlechter als 4,5: nicht bestanden)
 
 §9 (4) Anlage A APO-BK
 Mit dem Berufsschulabschluss erwerben die SuS den mittleren Schulabschluss (Fachoberschulreife), wenn sie ein
@@ -46,4 +50,6 @@ VV zu §8 Anlage A APO-BK: 2. Unterabschnitt VV zu §8; 8.1.6
 Niveau des Deutschen Qualifikationsrahmens:
 -	Niveau 2 nach § 66 BBiG und § 42 m HwO
 -	Niveau 3 bei zweijährigen Berufsausbildungen
--	Niveau 4 bei drei- und dreieinhalbjährigen Berufsaus
+-	Niveau 4 bei drei- und dreieinhalbjährigen Berufsausbildung
+
+
